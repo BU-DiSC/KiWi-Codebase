@@ -1,4 +1,4 @@
-# KiWi-Codebase
+# KiWi+ Codebase
 
 To facilitate the second design goal concerning secondary range deletes, we introduce KiWi, a continuum of physical storage layouts the arranges the data on disk in an interweaved sorted order on the sort key and delete key. The details of the idea can be found in our [paper1](https://dl.acm.org/doi/pdf/10.1145/3318464.3389757) and [paper2](https://dl.acm.org/doi/pdf/10.1145/3599724).
 
